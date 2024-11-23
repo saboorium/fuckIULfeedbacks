@@ -25,11 +25,13 @@ When the bookmarklet is executed on a feedback page:
 
 ### Step 3: Click on Bookmark Icon
 ![Android](images/S1Android.jpg)
-![PC](images/S1PC.jpg)
+![PC](images/S3PC.jpg)
 
 ### Congratulations, You have done the feedback Fourm in Seconds
 ![Android](images/finalAndoid.gif)
 ![PC](images/finalPC.gif)
+
+
 
 ---
 
