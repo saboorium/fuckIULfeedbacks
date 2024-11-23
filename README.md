@@ -21,7 +21,7 @@ When the bookmarklet is executed on a feedback page:
 
 ### Step 2: Visit the Feedback Fourm and select Subject Code and Faculty
 ![Android](images/S1Android.jpg)
-![PC](images/S1PC.jpg)
+![PC](images/S2PC.png)
 
 ### Step 3: Click on Bookmark Icon
 ![Android](images/S1Android.jpg)
