@@ -44,7 +44,7 @@ When the bookmarklet is executed on a feedback page:
 2. Open your browser and create a new bookmark.  
 3. Edit the bookmark and replace the URL with the provided code.  
 4. Save the bookmark.  
-5. Navigate to the Feedback Fourm page, open the bookmarks, and tap on the bookmarklet to execute it.  
+5. Navigate to the Feedback Fourm page, type name of Bookmark in Address Bar, and tap on the Result to execute the script.  
 
 ### On PC  
 1. Copy the code provided in the **Code** section below.  
@@ -61,3 +61,9 @@ Copy and paste the following code as the URL for your bookmark:
 
 ```javascript
 javascript:(function(){const radios=document.querySelectorAll('input[type="radio"]');radios.forEach(radio=>{if(radio.value==='rbOption_3'){radio.checked=true;}});alert("All questions have been set to 'Agree'.");const submitButton=document.getElementById('ContentPlaceHolder1_btn_Submit');submitButton?submitButton.click():alert('Submit button not found!');})();
+```
+
+---
+
+## P.S.
+I am working on a Quiz Solver for ILI, similar concept.
