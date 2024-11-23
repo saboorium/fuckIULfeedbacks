@@ -24,6 +24,7 @@ When the bookmarklet is executed on a feedback page:
 ![PC](images/S2PC.png)
 
 ### Step 3: Click on Bookmark Icon
+#### Note: For Android, type Bookmark Name in Adress Bar
 ![For Android, type Bookmark Name in Adress Bar](images/S3Android.gif)
 ![PC](images/S2PC.png)
 
