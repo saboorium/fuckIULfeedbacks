@@ -28,7 +28,7 @@ When the bookmarklet is executed on a feedback page:
 ![For Android, type Bookmark Name in Adress Bar](images/S3Android.gif)
 ![PC](images/S2PC.png)
 
-### Congratulations, You have done the feedback Fourm in Seconds
+### Congratulations, You have done the feedback Fourm in 5 Seconds
 ![Android](images/finalAndroid.gif)
 ![PC](images/finalPC.gif)
 
