@@ -29,7 +29,7 @@ When the bookmarklet is executed on a feedback page:
 ![PC](images/S2PC.png)
 
 ### Congratulations, You have done the feedback Fourm in Seconds
-![Android](images/finalAndoid.gif)
+![Android](images/finalAndroid.gif)
 ![PC](images/finalPC.gif)
 
 ### Thank You!
