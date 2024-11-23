@@ -17,7 +17,7 @@ When the bookmarklet is executed on a feedback page:
 ## Steps:
 ### Step 1: Complete  Setup
 ![Android](images/S1Android.jpg)
-![PC](images/S1PC.jpg)
+![PC](images/S1PC.gif)
 
 ### Step 2: Visit the Feedback Fourm and select Subject Code and Faculty
 ![Android](images/S1Android.jpg)
