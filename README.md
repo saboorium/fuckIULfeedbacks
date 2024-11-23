@@ -20,17 +20,18 @@ When the bookmarklet is executed on a feedback page:
 ![PC](images/S1PC.gif)
 
 ### Step 2: Visit the Feedback Fourm and select Subject Code and Faculty
-![Android](images/S1Android.jpg)
+![Android](images/S2Android.jpg)
 ![PC](images/S2PC.png)
 
 ### Step 3: Click on Bookmark Icon
-![Android](images/S1Android.jpg)
+![Android](images/S3Android.jpg)
 ![PC](images/S3PC.jpg)
 
 ### Congratulations, You have done the feedback Fourm in Seconds
 ![Android](images/finalAndoid.gif)
 ![PC](images/finalPC.gif)
 
+### Thank You!
 
 
 ---
