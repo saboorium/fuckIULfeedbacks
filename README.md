@@ -52,6 +52,9 @@ I am currently working on a **Quiz Solver for ILI** utilizing similar automated 
 ## 📖 Usage Guide
 
 Check the video below to see how the automation works in real-time.
+<video src="[watchit](https://github.com/user-attachments/assets/630bda75-7570-4ca1-99f3-28d48f50a818)" autoplay muted loop playsinline style="max-width: 100%;">
+</video>
+
 https://github.com/user-attachments/assets/630bda75-7570-4ca1-99f3-28d48f50a818
 
 ---
