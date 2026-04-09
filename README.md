@@ -52,10 +52,7 @@ I am currently working on a **Quiz Solver for ILI** utilizing similar automated 
 ## 📖 Usage Guide
 
 Check the video below to see how the automation works in real-time.
-
-<video src="https://github.com/saboorium/fuckIULfeedbacks/raw/main/images/usage-guide.mp4" controls="controls" style="max-width: 100%;">
-  Your browser does not support the video tag.
-</video>
+https://github.com/user-attachments/assets/630bda75-7570-4ca1-99f3-28d48f50a818
 
 ---
 
