@@ -21,12 +21,15 @@ The **Feedback Automation Suite** is an advanced bookmarklet designed for high-s
 2.  Open your browser and create a new bookmark (name it `AutoFeedback`).
 3.  **Edit** the bookmark and replace the URL with the copied code.
 4.  **To Run:** Go to the Feedback Form, tap the **Address Bar**, type `AutoFeedback`, and select the JavaScript result that appears.
+![Demo](images/S1Android.gif)
 
 ### 💻 On PC
 1.  **Copy** the code provided in the block below.
 2.  Right-click your **Bookmarks Bar** and select **Add Page**.
 3.  Name it `Feedback Pro` and paste the code into the **URL** field.
 4.  **To Run:** Click the bookmark while on the Feedback Form page and let the script handle the rest.
+![Demo](images/S1PC.gif)
+![Demo](images/S2PC.png)
 
 ---
 
@@ -42,3 +45,22 @@ javascript:(function(){if(document.getElementById('ai-status'))document.getEleme
 
 ## ⚡ Upcoming
 I am currently working on a **Quiz Solver for ILI** utilizing similar automated logic. Check back soon for updates!
+
+---
+
+
+## 📖 Usage Guide
+
+Check the video below to see how the automation works in real-time.
+
+<video src="https://github.com/saboorium/fuckIULfeedbacks/raw/main/images/usage-guide.mp4" controls="controls" style="max-width: 100%;">
+  Your browser does not support the video tag.
+</video>
+
+---
+
+### 🛠 Quick Steps
+1. **Open** the Feedback Forum.
+2. **Click** your bookmarklet.
+3. **Wait** for the script to finish (Watch the status box).
+4. **Review** the Final Audit Report.
